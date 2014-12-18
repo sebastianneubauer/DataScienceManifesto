@@ -1,0 +1,3 @@
+# Welcome to the Data Science Manifesto
+
+## 1: Data Science is...
