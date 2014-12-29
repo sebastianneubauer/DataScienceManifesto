@@ -5,10 +5,9 @@ In the spirit of the two books from 'Uncle Bob' ("Clean Code" and "The Clean Cod
 
 ## Data Science
 
-### 1. test
+### 1. Data Science generates measurable value based on data
 
-nsdnlblibckjbl
-ekjdn
+Data Science differs from traditional data analysis or data processing by it's claim to generate value purely based on data. There are many overlapping cases of course, but it is not data science if it is not adding measurable value. Measurable value implies that the imact of the data science effort is immediate.
 
 ### 2. test2
 ### 3. test3
