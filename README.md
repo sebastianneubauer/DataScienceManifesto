@@ -26,3 +26,7 @@ Techniques, algorithms and tools are obviously a very important part in Data Sci
 ### 1. The Data Scientist Loves, Respects and Cares about Data
 
 Data is the raw material for the Data Scientist. But data in it's nature isn't something anonymous. The data scientist understands the responsibility and handles the data with the appropriate care. This includes protection of privacy but also care against data loss and preserving and increasing the quality of the data. Even actively collecting data and making it available is in his/her own interest as he/she loves data.
+
+### 2. The Data scientist is honest
+
+### 3. The Data Scientist is conscious about the resources footprint
