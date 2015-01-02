@@ -7,9 +7,12 @@ In the spirit of the two books from 'Uncle Bob' ("Clean Code" and "The Clean Cod
 
 ### 1. Data Science generates measurable value based on data
 
-Data Science differs from traditional data analysis or data processing by it's claim to generate value purely based on data. There are many overlapping cases of course, but it is not data science if it is not adding measurable value. Measurable value implies that the imact of the data science effort is immediate.
+Data Science differs from traditional data analysis or data processing by it's claim to generate value purely based on data. There are many overlapping cases of course, but it is not data science if it is not adding measurable value. Measurable value implies that the imact of the data science effort is immediate, at least one con show a direct dependency of the data science work and the additional generated value.
 
-### 2. test2
+### 2. Data Science is Science
+
+Not in a sense, that the results are used or even usefull for science. It is science because the way of work is identical to the way of work in science. Mainly this means that all results can be reproduced and validated in a transparent manner. There is no room for magic or even ad-hoc methods that lack solid foundation, either statistically or in the given context.
+
 ### 3. test3
 ### 4. test4
 
