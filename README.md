@@ -11,10 +11,18 @@ Data Science differs from traditional data analysis or data processing by it's c
 
 ### 2. Data Science is Science
 
-Not in a sense, that the results are used or even usefull for science. It is science because the way of work is identical to the way of work in science. Mainly this means that all results can be reproduced and validated in a transparent manner. There is no room for magic or even ad-hoc methods that lack solid foundation, either statistically or in the given context.
+Not in a sense, that the results are used or are even usefull for science. It is science because the way of work is identical to the way of work in science. This means that all results can be reproduced and validated in a transparent manner. There is no room for magic or even ad-hoc methods that lack solid foundation, either statistically or in the given context.
 
-### 3. test3
-### 4. test4
+### 3. Data Science Ultimatively Aims to Automate Micro-Decisions
 
+At the end of the day what matters are the decisions made. Sadly, today most decisions aren't even taken at all, they are processed by simple business rules because of the sheer amount. Furthermore, even if the micro-decisions like 'which price to set' or 'how many items to order' are made by humans, they are often really bad in theses micro-decisions. As explained wonderfully in Daniel Kahneman's "Thinking, Fast and Slow" decisions of humans are highly biased and error prone. Data Science has shown to be able to automate these micro-decisions and outperform the quality of human decisions is many cases and fields.
+
+### 4. Data Science is About Statistics, Not About Algorithms or Tools
+
+Techniques, algorithms and tools are obviously a very important part in Data Science. Without knowing the details of tools and algorithms Data Science rapidly will exeed all given resource limitations. But due to the measurable results it's more important to correctly implement the statistical techniques. The statistical properties define the quality of the result, not the algorithm to get there.
 
 ## Data Scientist
+
+### 1. The Data Scientist Loves, Respects and Cares about Data
+
+Data is the raw material for the Data Scientist. But data in it's nature isn't something anonymous. The data scientist understands the responsibility and handles the data with the appropriate care. This includes protection of privacy but also care against data loss and preserving and increasing the quality of the data. Even actively collecting data and making it available is in his/her own interest as he/she loves data.
