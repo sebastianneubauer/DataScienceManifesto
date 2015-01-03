@@ -29,4 +29,6 @@ Data is the raw material for the Data Scientist. But data in it's nature isn't s
 
 ### 2. The Data scientist is honest
 
+As Data Science involves complex algorithms and transformations, it's obvious that not even other data scientist can judge right away if a data science work is correct and does what it is meant to do. It is therefore crucial for the Data Scientist to be honest about his work and as transparent as possible. It is all too easy to fool anyone about the quality and this would harm the whole data science field.
+
 ### 3. The Data Scientist is conscious about the resources footprint
