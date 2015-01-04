@@ -31,4 +31,6 @@ Data is the raw material for the Data Scientist. But data in it's nature isn't s
 
 As Data Science involves complex algorithms and transformations, it's obvious that not even other data scientist can judge right away if a data science work is correct and does what it is meant to do. It is therefore crucial for the Data Scientist to be honest about his work and as transparent as possible. It is all too easy to fool anyone about the quality and this would harm the whole data science field.
 
-### 3. The Data Scientist is conscious about the resources footprint
+### 3. The Data Scientist is conscious about resources
+
+When it comes to resources, data science is creedy in its nature. There is no intrinsic limit of the resources consumption. It os the duty of the Data Scientist to keep the resources footprint at a moderate level. If two algorithms, models or technologies yield similar results, the Data Scientist chooses the one which is more resource saving. Resources includes not only computational resources, but also maintainability and operational complexity. 
