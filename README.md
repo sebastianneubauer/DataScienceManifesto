@@ -21,6 +21,10 @@ At the end of the day what matters are the decisions made. Sadly, today most dec
 
 Techniques, algorithms and tools are obviously a very important part in Data Science. Without knowing the details of tools and algorithms Data Science rapidly will exeed all given resource limitations. But due to the measurable results it's more important to correctly implement the statistical techniques. The statistical properties define the quality of the result, not the algorithm to get there.
 
+### 5. Data Science is Part of the Production Process
+
+Nice looking data visualizations or data stories are just the visible tip of the iceberg. Most of Data Science is operating inside the value chains, the production processes or the business processes. It even must be deeply embedded inside these core processes in order to be able to yield the expected value.
+
 ## Data Scientist
 
 ### 1. The Data Scientist Loves, Respects and Cares about Data
