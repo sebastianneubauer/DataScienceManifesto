@@ -23,7 +23,7 @@ Techniques, algorithms and tools are obviously a very important part in Data Sci
 
 ### 5. Data Science is Part of the Production Process
 
-Nice looking data visualizations or data stories are just the visible tip of the iceberg. Most of Data Science is operating inside the value chains, the production processes or the business processes. It even must be deeply embedded inside these core processes in order to be able to yield the expected value.
+Nice looking data visualizations or data stories are just the visible tip of the iceberg. Most of Data Science is operating inside the value chains, the production processes or the business processes. It even must be deeply embedded inside these core processes in order to be able to yield the expected value. A sucessful data science effort cannot be placed on top of these higly protected areas, it needs the courage to change these processes in order to take advantage of the data science endeavor.
 
 ## Data Scientist
 
