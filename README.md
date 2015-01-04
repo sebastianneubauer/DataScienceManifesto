@@ -34,3 +34,7 @@ As Data Science involves complex algorithms and transformations, it's obvious th
 ### 3. The Data Scientist is conscious about resources
 
 When it comes to resources, data science is creedy in its nature. There is no intrinsic limit of the resources consumption. It os the duty of the Data Scientist to keep the resources footprint at a moderate level. If two algorithms, models or technologies yield similar results, the Data Scientist chooses the one which is more resource saving. Resources includes not only computational resources, but also maintainability and operational complexity. 
+
+### 4. The Data Scientist is an IT-Professional
+
+The Data Scientist seems to be a new role in the IT organisation, but there is not need for a new role, there are more than enough silos. The Data Scientist is a software developer and an operator. He stays in steady contact with all departments. As he writes code which is part of the production system and therefore need to fullfill the same qualtiy criteria as all other software in the organisation he actively works together with the software developers. Because of the significant computational resource footprint the Data Scientist will bring the Data Science effort only seamlessly in production with a vital collaboration with the operations department. 
