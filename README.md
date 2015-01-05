@@ -41,4 +41,8 @@ When it comes to resources, data science is creedy in its nature. There is no in
 
 ### 4. The Data Scientist is an IT-Professional
 
-The Data Scientist seems to be a new role in the IT organisation, but there is not need for a new role, there are more than enough silos. The Data Scientist is a software developer and an operator. He stays in steady contact with all departments. As he writes code which is part of the production system and therefore need to fullfill the same qualtiy criteria as all other software in the organisation he actively works together with the software developers. Because of the significant computational resource footprint the Data Scientist will bring the Data Science effort only seamlessly in production with a vital collaboration with the operations department. 
+The Data Scientist seems to be a new role in the IT organisation, but there is not need for a new role, there are more than enough silos. The Data Scientist is a software developer and an operator. He stays in steady contact with all departments. As he writes code which is part of the production system and therefore need to fullfill the same qualtiy criteria as all other software in the organisation he actively works together with the software developers. Because of the significant computational resource footprint the Data Scientist will bring the Data Science effort only seamlessly in production if he/she cultivates a vital collaboration with the operations department. 
+
+### 5. The Data Scientist is a Salesman
+
+Due to its intervering nature, Data Science comes with significant costs and the return of invest is often not trivial to estimate. Therefore it is natural for a Data Scientist to be good at selling his/her work. This includes knowledge of business processes and business economics as well as marketing and sales talent. 
