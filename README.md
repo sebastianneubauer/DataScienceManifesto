@@ -3,4 +3,4 @@ This is meant as a first draft and a blueprint for the Data Science Manifesto. T
 
 In the spirit of the two books from 'Uncle Bob' ("Clean Code" and "The Clean Coder") I would suggest to divide the manifesto into a part describing the field data science and a second part describing the role of the data scientist.
 
-The Data Science Manifesto is written in the file DataScienceManifesto.md in markdown format. 
+A blueprint of the Data Science Manifesto (let's say v0.0.1) is written in the file DataScienceManifesto.md in markdown format. Please help out improving this Manifesto by sharing your opinions! Collaboration and contribution is not only welcome, it is needed!
