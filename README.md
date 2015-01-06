@@ -11,7 +11,7 @@ Data Science at first glance seems to be pretty similar to traditional data anal
 
 ### 2. Data Science is Science
 
-Not in a sense, that the results are used or are even useful for science. It is science because the way of work is identical to the way of work in science. This means that all results can be reproduced and validated in a transparent manner. There is no room for magic or even ad-hoc methods that lack solid foundation, either statistically or in the given context.
+Not in a sense, that the results are used or are even useful for science. It is science because the way of work is identical to the way of work in science. This means that all results can be reproduced and validated in a transparent manner. There is no room for magic or ad-hoc methods that lack solid foundation. This includes well justified statistical and theoretical foundations, but also reasonable and comprehensible coherences in the given context.
 
 ### 3. Data Science Ultimately Aims to Automate Micro-Decisions
 
