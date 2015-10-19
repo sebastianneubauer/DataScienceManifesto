@@ -42,7 +42,7 @@ The Data Scientist seems to be a new role in the IT organization, but there is n
 
 Due to its intervening nature, Data Science comes with significant costs and the return of invest is often not trivial to estimate. Therefore it is natural for a Data Scientist to be good at selling his/her work. This includes knowledge of business processes and business economics as well as marketing and sales talent. 
 
-### 6. The Data Scientist is an professional Scientist
+### 6. The Data Scientist is a professional Scientist
 
 The Data Scientist has a scientific role. As a scientist, the Data Scientist is *curious* about the domain that is studied. The data scientist is free to come up with models, assumptions and theories, but applies *sceptical reasoning* and *canonical knowledge* to judge all of these, looking at their evidence and plausibility. Using cross-validation and testing are necessary steps for the Data Scientists, but are not the only aspects the Data Scientist relies on to evaluate the model.
 
